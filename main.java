@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class project4main {
+public class main {
 
 	public static void main(String[] args) throws FileNotFoundException{
 		Locale.setDefault(new Locale("en","US"));
